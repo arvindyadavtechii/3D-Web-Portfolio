@@ -125,3 +125,13 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Built with ❤️ and lots of ☕
+
+## 👨‍💻 Author
+
+ARVIND YADAV
+
+Frontend Developer
+
+📧 Contact: arvindyadavtechii@gmailcom
+
+## ⭐ If you like this project, feel free to star the repository!!
