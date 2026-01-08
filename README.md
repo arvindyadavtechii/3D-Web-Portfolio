@@ -1,10 +1,9 @@
-# Minecraft Portfolio Website
+# 3D Portfolio Website
 
-A modern, responsive portfolio website with a Minecraft theme and 3D elements, built with React, Vite, and Tailwind CSS.
+A modern, responsive portfolio website with a Cubic theme and 3D elements, built with React, Vite, and Tailwind CSS.
 
 ## Features
 
-- 🎮 **Minecraft Theme**: Unique pixelated design inspired by Minecraft
 - 🎨 **3D Elements**: Interactive 3D animations and floating cubes
 - 📱 **Fully Responsive**: Optimized for all devices (mobile, tablet, desktop)
 - ⚡ **Modern Tech Stack**: React 18, Vite, Tailwind CSS, Framer Motion
@@ -16,7 +15,7 @@ A modern, responsive portfolio website with a Minecraft theme and 3D elements, b
 
 ## Sections
 
-1. **Hero Section**: 3D animated landing page with floating Minecraft cubes
+1. **Hero Section**: 3D animated landing page with floating cubes
 2. **About**: Personal information with animated statistics
 3. **Technologies**: Skill categories with progress bars
 4. **Projects**: Filterable project showcase with live demos
@@ -29,7 +28,7 @@ A modern, responsive portfolio website with a Minecraft theme and 3D elements, b
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd minecraft-portfolio
+cd 3D-Web-Portfolio
 ```
 
 2. Install dependencies:
@@ -56,20 +55,7 @@ npm run build
 - **Vite**: Build tool and development server
 - **Tailwind CSS**: Utility-first CSS framework
 - **Framer Motion**: Animation library
-- **Lucide React**: Icon library
 - **React Router Dom**: Client-side routing
-
-## Customization
-
-### Colors
-The Minecraft theme colors are defined in `tailwind.config.js`:
-- `minecraft-green`: Primary green color
-- `minecraft-brown`: Wood/brown accents
-- `minecraft-stone`: Gray/stone elements
-- `minecraft-dirt`: Background dirt color
-- `minecraft-grass`: Grass green
-- `minecraft-water`: Water blue
-- `minecraft-sand`: Sand yellow
 
 ### Fonts
 The site uses the VT323 font for the Minecraft aesthetic, loaded from Google Fonts.
