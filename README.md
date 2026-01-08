@@ -2,6 +2,9 @@
 
 A modern, responsive portfolio website with a Cubic theme and 3D elements, built with React, Vite, and Tailwind CSS.
 
+🔗 **Live Demo:**  
+https://3-d-web-portfolio-six.vercel.app/
+
 ## Features
 
 - 🎨 **3D Elements**: Interactive 3D animations and floating cubes
